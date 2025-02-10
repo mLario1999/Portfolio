@@ -1,0 +1,23 @@
+## Overview
+
+This **2nd semester** project focuses on simulating crowd crush scenarios using vanilla JavaScript and a custom-built flow field algorithm. It provides a grid-based framework that allows users to create, save, and load different simulation layouts. The goal is to raise awareness and demonstrate the consequences of uncontrolled crowd movements in constrained spaces.
+
+**Disclaimer:** The group is not liable for any damages to property, injuries to people, or deaths related to any inaccuracies of this project.
+
+## Key Features
+
+- **Custom Layouts**: Users can draw and erase walls on a grid-based framework by holding down the mouse.
+- **Entrances and Exits**: Multiple entrance points allow for agent spawning, with balanced spawn rates. Agents move unidirectionally from entrance to exit.
+- **Customized Flow Field Algorithm**: A unique algorithm designed by the team directs agent movement based on various influences.
+- **Collision Detection**: A built-in mechanism ensures agents do not collide, creating more realistic crowd movement.
+
+## Key Competences
+
+- **Grid-Based System Design**: Experience in designing interactive grid-based environments.
+- **Pathfinding Algorithms**: Implementation of efficient pathfinding logic for agent movement.
+- **JavaScript Development**: Developed a simulation using vanilla JavaScript, focusing on performance and interactivity.
+
+## Key Contributions
+
+- **Grid Design**: Developed the interactive grid system for user-defined layouts.
+- **Agent Spawn & Pathfinding Algorithms**: Implemented agent spawning mechanics and designed algorithms for their movement.
